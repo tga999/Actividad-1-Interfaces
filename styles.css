@@ -1,0 +1,33 @@
+h2{
+    color : red;
+}
+
+body{
+    background-color: lightgray;
+}
+
+img{
+    width: 500px;
+    height: 300px;
+    max-width: 100%;
+}
+h3{
+    color: white;
+    background-color: blue;
+    padding: 10px;
+    text-align: center;
+}
+h1{
+    color: rebeccapurple;
+    text-align: center;
+}
+p{
+    color: black;
+    font-size: 18px;    
+}
+footer{
+    text-align: center;
+    margin-top: 20px;
+    background-color: cadetblue;
+    padding: 10px;  
+}
